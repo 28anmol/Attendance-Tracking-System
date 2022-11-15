@@ -21,7 +21,8 @@ This project is a work of a bachelor thesis done by me as a student of Mechatron
 5. [GUI Layout](#gui-layout)
 6. [Optimisation Results](#optimisation-results)
 7. [Results](#results)
-8. [Contributors](#contributors)
+8. [Steps of Code Execution](#steps-of-code-execution)
+9. [Contributors](#contributors)
 
 ## Abstract
 
@@ -34,7 +35,7 @@ The scope of this thesis presents the development of an attendance tracker syste
 - Artificial Intelligence
 - Embedded Systems
 - Programming
-
+  - Completely developed on python
 ## AI Models Used
 - Face Detection
 - Face Recognition
@@ -83,6 +84,8 @@ https://user-images.githubusercontent.com/89078435/201905450-ab40b47d-0fe4-4576-
 https://user-images.githubusercontent.com/89078435/201905528-04f72484-0399-4ad9-8e99-bf65edda8863.mov
 ### Autologger Parameters
 https://user-images.githubusercontent.com/89078435/201905621-db8c1b8e-f049-4053-ad5e-b3f5d128021b.mov
+
+## Steps of Code Execution
 
 ## Contributors
 
