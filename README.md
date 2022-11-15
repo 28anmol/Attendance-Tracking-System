@@ -13,12 +13,48 @@ This project is a work of a bachelor thesis done by me as a student of Mechatron
 ![](./Miscellaneous/uses-face-recognition.svg)
 ![](./Miscellaneous/uses-hand-gesture-control.svg) ![](./Miscellaneous/made-as-embedded-system.svg)![](./Miscellaneous/uses-computer-vision.svg)![](./Miscellaneous/uses-tkinter.svg)
 
+## Table Of Contents
+1. [Abstract](#abstract)
+2. [Fields Involved](#fields-involved)
+3. [AI Models Used](#ai-models-used)
+4. [Hardware Requirements](#hardware-requirements)
+5. [Optimization Results](#optimization-results)
+6. [Results](#results)
+7. [Contributors](#contributors)
+
 ## Abstract
 
 <p align= "justify">
 The scope of this thesis presents the development of an attendance tracker system from scratch using computer vision based AI deployed on an embedded system. As students frequently forget to fill out the user attendance list and the carbon footprints need to be physically stored for records, conventional techniques of attendance monitoring such as signing attendance sheets or calling out names of each student by the professor are becoming woefully out of date, repetitive, and dull. This is where the project comes into play. It aims to automate the entire system by implementing a quicker and more secure method of recording attendance that uses face recognition to authenticate the user and gesture recognition to identify the time of entry and exit of the lab, which are alluded to as login and logout. The face recognition has been implemented using the face-recognition python library whereas the hand detection and gesture recognition has been implemented using the MediaPipe library. The system has been meticulously packaged into a complete software that includes an interactive graphical user interface supporting all the key functionalities aside from user login, including: registering a new user in the database, deleting the user from the database, and changing other crucial system parameters from system preferences. This has been done to facilitate and mesmerize user experience. Python has been used only in the writing and development of the software because the goal of this thesis is to create a quick prototype. The finished product has a touchscreen, camera, and Raspberry Pi 4 inside a Polylactic Acid (PLA) case that was 3D printed, making it portable, lightweight, and simple to assemble.
 </p>
 
+## Fields involved:
+- Computer Vision
+- Artificial Intelligence
+    - Face detection 
+    - Face recognition
+    - Gesture recognition and control
+- Embedded Systems
+  - Raspberry pi 4B
+  - Raspberry pi camera
+  - Raspberry pi touchscreen
+- Programming
+  - Python
+
+## AI Models Used
+- Face Detection
+- Face Recognition
+- Hand Tracking and Hand Gesture Regonition
+  - Palm Detection
+  - Hand Landmark Detection
+
+## Hardware Requirements
+
+- Raspberry Pi 4B
+- Raspberry Pi Camera v1.3
+- Raspberry Pi Touchscreen
+
+## Optimization Results
 
 ## Results
 
