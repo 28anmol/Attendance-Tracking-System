@@ -94,7 +94,7 @@ https://user-images.githubusercontent.com/89078435/201905621-db8c1b8e-f049-4053-
 
 ## Conclusion
 
-## Functional Attendance Monitoring System on the Embedded System
+### Functional Attendance Monitoring System on the Embedded System
 
 <img src="./Results/AutologgerDeviceRunning.jpeg" alt="drawing" width="500" height="400"/>
 
