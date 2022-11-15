@@ -1,0 +1,5 @@
+face_recognition
+mediapipe
+numpy
+opencv_python
+Pillow
