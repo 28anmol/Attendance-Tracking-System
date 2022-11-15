@@ -17,7 +17,7 @@ This project is a work of a bachelor thesis done by me as a student of Mechatron
 1. [Abstract](#abstract)
 2. [Fields Involved](#fields-involved)
 3. [AI Models Used](#ai-models-used)
-4. [Hardware Requirements](#hardware-requirements)
+4. [Hardware Requirements and Circuit Diagram](#hardware-requirements-and-circuit-diagram)
 5. [Optimization Results](#optimization-results)
 6. [Results](#results)
 7. [Contributors](#contributors)
@@ -28,7 +28,7 @@ This project is a work of a bachelor thesis done by me as a student of Mechatron
 The scope of this thesis presents the development of an attendance tracker system from scratch using computer vision based AI deployed on an embedded system. As students frequently forget to fill out the user attendance list and the carbon footprints need to be physically stored for records, conventional techniques of attendance monitoring such as signing attendance sheets or calling out names of each student by the professor are becoming woefully out of date, repetitive, and dull. This is where the project comes into play. It aims to automate the entire system by implementing a quicker and more secure method of recording attendance that uses face recognition to authenticate the user and gesture recognition to identify the time of entry and exit of the lab, which are alluded to as login and logout. The face recognition has been implemented using the face-recognition python library whereas the hand detection and gesture recognition has been implemented using the MediaPipe library. The system has been meticulously packaged into a complete software that includes an interactive graphical user interface supporting all the key functionalities aside from user login, including: registering a new user in the database, deleting the user from the database, and changing other crucial system parameters from system preferences. This has been done to facilitate and mesmerize user experience. Python has been used only in the writing and development of the software because the goal of this thesis is to create a quick prototype. The finished product has a touchscreen, camera, and Raspberry Pi 4 inside a Polylactic Acid (PLA) case that was 3D printed, making it portable, lightweight, and simple to assemble.
 </p>
 
-## Fields involved:
+## Fields Involved:
 - Computer Vision
 - Artificial Intelligence
     - Face detection 
@@ -48,13 +48,27 @@ The scope of this thesis presents the development of an attendance tracker syste
   - Palm Detection
   - Hand Landmark Detection
 
-## Hardware Requirements
+## Hardware Requirements and Circuit Diagram
 
 - Raspberry Pi 4B
 - Raspberry Pi Camera v1.3
 - Raspberry Pi Touchscreen
+- Power Adapter
+- SD Card
+- 3D printed casing
+
+<img src="./Results/Thesis_Circuit_Schematic.jpg" alt="drawing" width="500"/>
 
 ## Optimization Results
+The optimization results have been carried out for 2 hardwares:
+- Macbook Pro 15-inch, 2017 model
+- Raspberry Pi model 4B (4GB)
+
+### Performance Analysis Results
+<img src="./Results/image13.png" alt="drawing" width="500"/>
+
+### Time Analysis Results
+<img src="./Results/image14.png" alt="drawing" width="500"/>
 
 ## Results
 
