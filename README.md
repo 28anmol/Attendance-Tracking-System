@@ -1,4 +1,4 @@
-# Attendance Tracker System
+# Attendance Monitoring System
 
 ## Thesis Title: Development of Attendance Tracker System using computer vision based AI on an embedded system.
 
