@@ -18,11 +18,12 @@ This project is a work of a bachelor thesis done by me as a student of Mechatron
 2. [Fields Involved](#fields-involved)
 3. [AI Models Used](#ai-models-used)
 4. [Hardware Requirements and Circuit Diagram](#hardware-requirements-and-circuit-diagram)
-5. [GUI Layout](#gui-layout)
+5. [GUI](#gui)
 6. [Optimisation Results](#optimisation-results)
 7. [Results](#results)
 8. [Steps of Code Execution](#steps-of-code-execution)
-9. [Contributors](#contributors)
+9. [Conclusion](#conclusion)
+10. [Contributors](#contributors)
 
 ## Abstract
 
@@ -54,8 +55,12 @@ The scope of this thesis presents the development of an attendance tracker syste
 
 <img src="./Results/Thesis_Circuit_Schematic.jpg" alt="drawing" width="500"/>
 
-## GUI Layout
+## GUI
+The graphical user interface
+### GUI Layout
 <img src="./Results/AutologgerGUI.jpg" alt="drawing" width="500"/>
+
+### GUI 
 
 ## Optimisation Results
 The optimization results have been carried out for 2 hardwares:
@@ -86,6 +91,22 @@ https://user-images.githubusercontent.com/89078435/201905528-04f72484-0399-4ad9-
 https://user-images.githubusercontent.com/89078435/201905621-db8c1b8e-f049-4053-ad5e-b3f5d128021b.mov
 
 ## Steps of Code Execution
+
+## Conclusion
+
+## Functional Attendance Monitoring System on the Embedded System
+
+<img src="./Results/AutologgerDeviceRunning.jpeg" alt="drawing" width="500" height="400"/>
+
+|Functionalities Delivered|
+|---|
+|User Login/Logout|
+|Active Users|
+|Create User|
+|Delete/Archive User|
+|Autologger Parameters|
+|About Software|
+
 
 ## Contributors
 
