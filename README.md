@@ -32,15 +32,8 @@ The scope of this thesis presents the development of an attendance tracker syste
 ## Fields Involved:
 - Computer Vision
 - Artificial Intelligence
-    - Face detection 
-    - Face recognition
-    - Gesture recognition and control
 - Embedded Systems
-  - Raspberry pi 4B
-  - Raspberry pi camera
-  - Raspberry pi touchscreen
 - Programming
-  - Python
 
 ## AI Models Used
 - Face Detection
