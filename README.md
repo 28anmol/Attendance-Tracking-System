@@ -56,11 +56,26 @@ The scope of this thesis presents the development of an attendance tracker syste
 <img src="./Results/Thesis_Circuit_Schematic.jpg" alt="drawing" width="500"/>
 
 ## GUI
-The graphical user interface
+
 ### GUI Layout
 <img src="./Results/AutologgerGUI.jpg" alt="drawing" width="500"/>
 
 ### GUI 
+The graphical user interface has been built using a library called Tkinter. The following images showcase all the 12 windows present in the software.
+
+|Welcome Window|Main Window|
+|---|---|
+<img src="./Results/image13.png" alt="drawing" width="500" height="300"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="300"/>|
+|Welcome Window|Main Window|
+<img src="./Results/image13.png" alt="drawing" width="500" height="300"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="300"/>|
+|Welcome Window|Main Window|
+<img src="./Results/image13.png" alt="drawing" width="500" height="300"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="300"/>|
+|Welcome Window|Main Window|
+<img src="./Results/image13.png" alt="drawing" width="500" height="300"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="300"/>|
+|Welcome Window|Main Window|
+<img src="./Results/image13.png" alt="drawing" width="500" height="300"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="300"/>|
+|Welcome Window|Main Window|
+<img src="./Results/image13.png" alt="drawing" width="500" height="300"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="300"/>|
 
 ## Optimisation Results
 The optimization results have been carried out for 2 hardwares:
