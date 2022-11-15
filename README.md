@@ -2,7 +2,7 @@
 
 ## Thesis Title: Development of Attendance Tracker System using computer vision based AI on an embedded system.
 
-This project is a work of a bachelor thesis done by a student of Mechatronic Systems Engineering B.Sc.
+This project is a work of a bachelor thesis done by me as a student of Mechatronic Systems Engineering B.Sc.
 
 ![](https://forthebadge.com/images/badges/powered-by-electricity.svg)    ![](https://forthebadge.com/images/badges/for-robots.svg)![](./Miscellaneous/uses-artificial-intelligence.svg) ![](./Miscellaneous/built-as-autonomous-system.svg)
 ![](https://forthebadge.com/images/badges/made-with-python.svg)![](./Miscellaneous/made_with_opencv.svg)
@@ -12,6 +12,10 @@ This project is a work of a bachelor thesis done by a student of Mechatronic Sys
 ![](./Miscellaneous/made-with-raspberry-pi-touchscreen.svg)
 ![](./Miscellaneous/uses-face-recognition.svg)
 ![](./Miscellaneous/uses-hand-gesture-control.svg) ![](./Miscellaneous/made-as-embedded-system.svg)![](./Miscellaneous/uses-computer-vision.svg)![](./Miscellaneous/uses-tkinter.svg)
+
+## Abstract
+
+
 
 ## Results
 
