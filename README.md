@@ -19,7 +19,7 @@ This project is a work of a bachelor thesis done by me as a student of Mechatron
 3. [AI Models Used](#ai-models-used)
 4. [Hardware Requirements and Circuit Diagram](#hardware-requirements-and-circuit-diagram)
 5. [GUI Layout](#gui-layout)
-6. [Optimization Results](#optimization-results)
+6. [Optimisation Results](#optimisation-results)
 7. [Results](#results)
 8. [Contributors](#contributors)
 
@@ -56,13 +56,18 @@ The scope of this thesis presents the development of an attendance tracker syste
 ## GUI Layout
 <img src="./Results/AutologgerGUI.jpg" alt="drawing" width="500"/>
 
-## Optimization Results
+## Optimisation Results
 The optimization results have been carried out for 2 hardwares:
 - Macbook Pro 15-inch, 2017 model
 - Raspberry Pi model 4B (4GB)
 
-### Performance Analysis Results and Time Analysis Results
-<img src="./Results/image13.png" alt="drawing" width="500" height="300"/> <img src="./Results/image14.png" alt="drawing" width="500"/>
+<!-- ### Performance Analysis Results and Time Analysis Results -->
+<!-- <img src="./Results/image13.png" alt="drawing" width="500" height="300"> <img src="./Results/image14.png" alt="drawing" width="500"/> -->
+
+
+|Performance Analysis Results|Time Analysis Results|
+|---|---|
+|<img src="./Results/image13.png" alt="drawing" width="500" height="300"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="300"/>|
 
 ## Results
 
