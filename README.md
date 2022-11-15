@@ -18,9 +18,10 @@ This project is a work of a bachelor thesis done by me as a student of Mechatron
 2. [Fields Involved](#fields-involved)
 3. [AI Models Used](#ai-models-used)
 4. [Hardware Requirements and Circuit Diagram](#hardware-requirements-and-circuit-diagram)
-5. [Optimization Results](#optimization-results)
-6. [Results](#results)
-7. [Contributors](#contributors)
+5. [GUI Layout](#gui-layout)
+6. [Optimization Results](#optimization-results)
+7. [Results](#results)
+8. [Contributors](#contributors)
 
 ## Abstract
 
@@ -58,6 +59,9 @@ The scope of this thesis presents the development of an attendance tracker syste
 - 3D printed casing
 
 <img src="./Results/Thesis_Circuit_Schematic.jpg" alt="drawing" width="500"/>
+
+## GUI Layout
+<img src="./Results/AutologgerGUI.jpg" alt="drawing" width="500"/>
 
 ## Optimization Results
 The optimization results have been carried out for 2 hardwares:
