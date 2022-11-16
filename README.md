@@ -88,7 +88,7 @@ The optimization results have been carried out for 2 hardwares:
 
 |Performance Analysis Results|Time Analysis Results|
 |---|---|
-|<img src="./Results/image13.png" alt="drawing" width="500" height="280"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="280"/>|
+|<img src="./Results/image13.png" alt="drawing" width="500" height="250"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="250"/>|
 
 ## Results
 
