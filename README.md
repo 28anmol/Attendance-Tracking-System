@@ -70,12 +70,12 @@ The graphical user interface has been built using a library called Tkinter. The 
 <img src="./Results/03_About.png" alt="drawing" width="500" height="250"/> |<img src="./Results/login.png" alt="drawing" width="500" height="250"/>|
 |Active Users Window|Admin Password Window|
 <img src="./Results/09(2)_Active.png" alt="drawing" width="500" height="250"/> |<img src="./Results/04(1)_AdminPass.png" alt="drawing" width="500" height="250"/>|
-|Welcome Window|Main Window|
-<img src="./Results/image13.png" alt="drawing" width="500" height="250"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="250"/>|
-|Welcome Window|Main Window|
-<img src="./Results/image13.png" alt="drawing" width="500" height="250"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="250"/>|
-|Welcome Window|Main Window|
-<img src="./Results/image13.png" alt="drawing" width="500" height="250"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="250"/>|
+|System Preferences Window|Create User(Registration form) Window|
+<img src="./Results/image13.png" alt="drawing" width="500" height="250"/> |<img src="./Results/08(1)_Create.png" alt="drawing" width="500" height="250"/>|
+|Create User(Snap Picture) Window|Create User(Confirmation) Window|
+<img src="./Results/08(3)_Create.png" alt="drawing" width="500" height="250"/> |<img src="./Results/08(4)_Create.png" alt="drawing" width="500" height="250"/>|
+|Delete/Archive User Window|Autologger Parameters Window|
+<img src="./Results/07(1)_Delete.png" alt="drawing" width="500" height="250"/> |<img src="./Results/05_AutologParams.png" alt="drawing" width="500" height="250"/>|
 
 ## Optimisation Results
 The optimization results have been carried out for 2 hardwares:
