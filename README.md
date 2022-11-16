@@ -89,7 +89,7 @@ Models used before optimisation:
 Models used after optimisation:
 - Face detection: BlazeFace from Google implemented via MediaPipe
 - Face Recognition: face-recognition library.
-- Hand Gesture Recognition: BlazePalm and BlazeHand im[lemented via MediaPipe.
+- Hand Gesture Recognition: BlazePalm and BlazeHand implemented via MediaPipe.
 
 <!-- ### Performance Analysis Results and Time Analysis Results -->
 <!-- <img src="./Results/image13.png" alt="drawing" width="500" height="300"> <img src="./Results/image14.png" alt="drawing" width="500"/> -->
