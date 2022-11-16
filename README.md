@@ -68,8 +68,8 @@ The graphical user interface has been built using a library called Tkinter. The 
 <img src="./Results/01_Welcome.png" alt="drawing" width="500" height="250"/> |<img src="./Results/02_MainPage.png" alt="drawing" width="500" height="250"/>|
 |About Software Window|User Login Window|
 <img src="./Results/03_About.png" alt="drawing" width="500" height="250"/> |<img src="./Results/login.png" alt="drawing" width="500" height="250"/>|
-|Welcome Window|Main Window|
-<img src="./Results/image13.png" alt="drawing" width="500" height="250"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="250"/>|
+|Active Users Window|Admin Password Window|
+<img src="./Results/activelogins.png" alt="drawing" width="500" height="250"/> |<img src="./Results/04(1)_AdminPass.png" alt="drawing" width="500" height="250"/>|
 |Welcome Window|Main Window|
 <img src="./Results/image13.png" alt="drawing" width="500" height="250"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="250"/>|
 |Welcome Window|Main Window|
