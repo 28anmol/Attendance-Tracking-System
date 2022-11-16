@@ -117,6 +117,8 @@ https://user-images.githubusercontent.com/89078435/201905621-db8c1b8e-f049-4053-
 
 ## List of Dependencies and Steps Of Code Execution
 
+**The master software code file:** autologger.py
+
 List of names of image files needed to run the software are as follows:
 1. robopic.jpeg
 2. homebutton.jpg
