@@ -23,7 +23,7 @@ This project is a work of a bachelor thesis done by me as a student of Mechatron
 7. [Results](#results)
 8. [List of Dependencies and Steps of Code Execution](#list-of-dependencies-and-steps-of-code-execution)
 9. [Conclusion](#conclusion)
-10. [Contributors](#contributors)
+10. [Author](#author)
 
 ## Abstract
 
@@ -210,7 +210,7 @@ $ python3 autologger.py
 |About Software|
 
 
-## Contributors
+## Author
 
 **Author's Name**: Anmol Singh <br/>
 **Matriculation Number:** 24244 <br/>
