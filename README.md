@@ -13,7 +13,7 @@ This project is a work of a bachelor thesis done by me as a student of Mechatron
 ![](./Miscellaneous/uses-face-recognition.svg)
 ![](./Miscellaneous/uses-hand-gesture-control.svg) ![](./Miscellaneous/made-as-embedded-system.svg)![](./Miscellaneous/uses-computer-vision.svg)![](./Miscellaneous/uses-tkinter.svg)
 
-## Table Of Contents
+## Table of Contents
 1. [Abstract](#abstract)
 2. [Fields Involved](#fields-involved)
 3. [AI Models Used](#ai-models-used)
@@ -21,7 +21,7 @@ This project is a work of a bachelor thesis done by me as a student of Mechatron
 5. [GUI](#gui)
 6. [Optimisation Results](#optimisation-results)
 7. [Results](#results)
-8. [Steps of Code Execution](#steps-of-code-execution)
+8. [List of Dependencies and Steps of Code Execution](#list-of-dependencies-and-steps-of-code-execution)
 9. [Conclusion](#conclusion)
 10. [Contributors](#contributors)
 
@@ -115,7 +115,7 @@ https://user-images.githubusercontent.com/89078435/201905528-04f72484-0399-4ad9-
 ### Autologger Parameters
 https://user-images.githubusercontent.com/89078435/201905621-db8c1b8e-f049-4053-ad5e-b3f5d128021b.mov
 
-## Steps of Code Execution
+## List of Dependencies and Steps Of Code Execution
 
 ## Conclusion
 
