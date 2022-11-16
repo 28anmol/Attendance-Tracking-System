@@ -67,15 +67,15 @@ The graphical user interface has been built using a library called Tkinter. The 
 |---|---|
 <img src="./Results/01_Welcome.png" alt="drawing" width="500" height="250"/> |<img src="./Results/02_MainPage.png" alt="drawing" width="500" height="250"/>|
 |Welcome Window|Main Window|
-<img src="./Results/image13.png" alt="drawing" width="500" height="300"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="300"/>|
+<img src="./Results/03_About.png" alt="drawing" width="500" height="250"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="250"/>|
 |Welcome Window|Main Window|
-<img src="./Results/image13.png" alt="drawing" width="500" height="300"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="300"/>|
+<img src="./Results/image13.png" alt="drawing" width="500" height="250"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="250"/>|
 |Welcome Window|Main Window|
-<img src="./Results/image13.png" alt="drawing" width="500" height="300"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="300"/>|
+<img src="./Results/image13.png" alt="drawing" width="500" height="250"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="250"/>|
 |Welcome Window|Main Window|
-<img src="./Results/image13.png" alt="drawing" width="500" height="300"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="300"/>|
+<img src="./Results/image13.png" alt="drawing" width="500" height="250"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="250"/>|
 |Welcome Window|Main Window|
-<img src="./Results/image13.png" alt="drawing" width="500" height="300"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="300"/>|
+<img src="./Results/image13.png" alt="drawing" width="500" height="250"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="250"/>|
 
 ## Optimisation Results
 The optimization results have been carried out for 2 hardwares:
