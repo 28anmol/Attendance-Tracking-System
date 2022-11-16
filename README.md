@@ -91,6 +91,7 @@ The optimization results have been carried out for 2 hardwares:
 |<img src="./Results/image13.png" alt="drawing" width="500" height="250"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="250"/>|
 
 ## Results
+This section showcases some major functionalities of the software.
 
 ### User Login + Active Users
 https://github.com/28anmol/Attendance-Tracking-System/raw/main/Results/media7.mov](https://user-images.githubusercontent.com/89078435/201904798-3550345b-c180-474a-a94c-3442776fee28.mov)
