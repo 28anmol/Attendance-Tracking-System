@@ -117,6 +117,22 @@ https://user-images.githubusercontent.com/89078435/201905621-db8c1b8e-f049-4053-
 
 ## List of Dependencies and Steps Of Code Execution
 
+List of names of files automatically created by the software are as follows:
+- autologger_tempfile.txt
+- autologger_logfile.txt
+- autologger_userdetails.txt
+- autologger_faceencodings.txt 
+- autologger_archive.txt
+- autologger_timedetails.txt
+
+List of library dependencies required to run the software are:
+1. face-recognition
+2. mediapipe
+3. numpy
+4. opencv-python
+5. Pillow
+
+
 To execute the code normally on a PC:
 ```bash
 $ git clone https://github.com/28anmol/Attendance-Tracking-System.git
