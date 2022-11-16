@@ -71,7 +71,7 @@ The graphical user interface has been built using a library called Tkinter. The 
 |Active Users Window|Admin Password Window|
 <img src="./Results/09(2)_Active.png" alt="drawing" width="500" height="250"/> |<img src="./Results/04(1)_AdminPass.png" alt="drawing" width="500" height="250"/>|
 |System Preferences Window|Create User(Registration form) Window|
-<img src="./Results/image13.png" alt="drawing" width="500" height="250"/> |<img src="./Results/08(1)_Create.png" alt="drawing" width="500" height="250"/>|
+<img src="./Results/06_Settings.png" alt="drawing" width="500" height="250"/> |<img src="./Results/08(1)_Create.png" alt="drawing" width="500" height="250"/>|
 |Create User(Snap Picture) Window|Create User(Confirmation) Window|
 <img src="./Results/08(3)_Create.png" alt="drawing" width="500" height="250"/> |<img src="./Results/08(4)_Create.png" alt="drawing" width="500" height="250"/>|
 |Delete/Archive User Window|Autologger Parameters Window|
