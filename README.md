@@ -65,7 +65,7 @@ The graphical user interface has been built using a library called Tkinter. The 
 
 |Welcome Window|Main Window|
 |---|---|
-<img src="./Results/01_Welcome.png" alt="drawing" width="500" height="300"/> |<img src="./Results/02_MainPage.png" alt="drawing" width="500" height="300"/>|
+<img src="./Results/01_Welcome.png" alt="drawing" width="500" height="250"/> |<img src="./Results/02_MainPage.png" alt="drawing" width="500" height="250"/>|
 |Welcome Window|Main Window|
 <img src="./Results/image13.png" alt="drawing" width="500" height="300"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="300"/>|
 |Welcome Window|Main Window|
