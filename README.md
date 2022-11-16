@@ -82,6 +82,15 @@ The optimization results have been carried out for 2 hardwares:
 - Macbook Pro 15-inch, 2017 model
 - Raspberry Pi model 4B (4GB)
 
+Models used before optimisation:
+- Face Detection and Recognition: face-recognition library.
+- Hand Gesture Recognition: BlazePalm and BlazeHand from MediaPipe.
+
+Models used after optimisation:
+- Face detection: BlazeFace from Google implemented via MediaPipe
+- Face Recognition: face-recognition library.
+- Hand Gesture Recognition: BlazePalm and BlazeHand im[lemented via MediaPipe.
+
 <!-- ### Performance Analysis Results and Time Analysis Results -->
 <!-- <img src="./Results/image13.png" alt="drawing" width="500" height="300"> <img src="./Results/image14.png" alt="drawing" width="500"/> -->
 
