@@ -117,6 +117,43 @@ https://user-images.githubusercontent.com/89078435/201905621-db8c1b8e-f049-4053-
 
 ## List of Dependencies and Steps Of Code Execution
 
+To execute the code normally on a PC:
+```bash
+$ git clone https://robotics.hochschule-rhein-waal.de/gitlab/anmol280399/ attendance-tracker-system.git
+```
+```bash
+$ cd attendance-tracker-system
+```
+```bash
+$ sudo apt-get install python3-venv
+```
+```bash
+$ python3 -m venv autolog
+```
+```bash
+$ source autolog/bin/activate
+```
+```bash
+$ python3 -m pip install --upgrade pip
+```
+```bash
+$ pip install -r requirements.txt
+```
+```bash
+$ python3 autologger.py
+```
+
+To execute the code through terminal on Raspberry Pi with the touchscreen and camera connected:
+```bash
+$ source autolog/bin/activate
+```
+```bash
+$ export DISPLAY=:0.0
+```
+```bash
+$ python3 autologger.py
+```
+
 ## Conclusion
 
 ### Functional attendance tracker on embedded system
