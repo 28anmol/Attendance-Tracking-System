@@ -63,7 +63,7 @@ The scope of this thesis presents the development of an attendance tracker syste
 ### GUI 
 The graphical user interface has been built using a library called Tkinter. The following images showcase all the 12 windows present in the software.
 
-|**Welcome Window**|**Main Window**|
+|Welcome Window|Main Window|
 |:----:|:----:|
 <img src="./Results/01_Welcome.png" alt="drawing" width="500" height="250"/> |<img src="./Results/02_MainPage.png" alt="drawing" width="500" height="250"/>|
 |**About Software Window**|**User Login Window**|
