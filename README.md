@@ -117,6 +117,28 @@ https://user-images.githubusercontent.com/89078435/201905621-db8c1b8e-f049-4053-
 
 ## List of Dependencies and Steps Of Code Execution
 
+List of names of image files needed to run the software are as follows:
+1. robopic.jpeg
+2. homebutton.jpg
+3. settingslogo.png
+4. loginlogo.png
+5. nextlogo.png
+6. backlogo.png
+7. createuser.png
+8. deleteuser.png
+9. autologgerparameters.png
+10. adminloginlogo.png
+11. cameraphoto.png
+12. AboutUs.png
+13. savefile.png
+14. deletefile.png
+15. activelogins.png
+16. loginconfirm.png
+17. yesicon.png
+18. noicon.png
+19. archive.png
+
+
 List of names of files automatically created by the software are as follows:
 - autologger_tempfile.txt
 - autologger_logfile.txt
