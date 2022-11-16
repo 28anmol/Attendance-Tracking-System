@@ -63,18 +63,18 @@ The scope of this thesis presents the development of an attendance tracker syste
 ### GUI 
 The graphical user interface has been built using a library called Tkinter. The following images showcase all the 12 windows present in the software.
 
-|Welcome Window|Main Window|
+|**Welcome Window**|**Main Window**|
 |---|---|
 <img src="./Results/01_Welcome.png" alt="drawing" width="500" height="250"/> |<img src="./Results/02_MainPage.png" alt="drawing" width="500" height="250"/>|
-|About Software Window|User Login Window|
+|**About Software Window**|**User Login Window**|
 <img src="./Results/03_About.png" alt="drawing" width="500" height="250"/> |<img src="./Results/login.png" alt="drawing" width="500" height="250"/>|
-|Active Users Window|Admin Password Window|
+|**Active Users Window**|**Admin Password Window**|
 <img src="./Results/09(2)_Active.png" alt="drawing" width="500" height="250"/> |<img src="./Results/04(1)_AdminPass.png" alt="drawing" width="500" height="250"/>|
-|System Preferences Window|Create User(Registration form) Window|
+|**System Preferences Window**|**Create User(Registration form) Window**|
 <img src="./Results/06_Settings.png" alt="drawing" width="500" height="250"/> |<img src="./Results/08(1)_Create.png" alt="drawing" width="500" height="250"/>|
-|Create User(Snap Picture) Window|Create User(Confirmation) Window|
+|**Create User(Snap Picture) Window**|**Create User(Confirmation) Window**|
 <img src="./Results/08(3)_Create.png" alt="drawing" width="500" height="250"/> |<img src="./Results/08(4)_Create.png" alt="drawing" width="500" height="250"/>|
-|Delete/Archive User Window|Autologger Parameters Window|
+|**Delete/Archive User Window**|**Autologger Parameters Window**|
 <img src="./Results/07(1)_Delete.png" alt="drawing" width="500" height="250"/> |<img src="./Results/05_AutologParams.png" alt="drawing" width="500" height="250"/>|
 
 ## Optimisation Results
@@ -95,7 +95,7 @@ Models used after optimisation:
 <!-- <img src="./Results/image13.png" alt="drawing" width="500" height="300"> <img src="./Results/image14.png" alt="drawing" width="500"/> -->
 
 
-|Performance Analysis Results|Time Analysis Results|
+|**Performance Analysis Results**|**Time Analysis Results**|
 |---|---|
 |<img src="./Results/image13.png" alt="drawing" width="500" height="250"/> |<img src="./Results/image14.png" alt="drawing" width="500" height="250"/>|
 
