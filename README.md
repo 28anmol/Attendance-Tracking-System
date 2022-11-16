@@ -119,7 +119,7 @@ https://user-images.githubusercontent.com/89078435/201905621-db8c1b8e-f049-4053-
 
 To execute the code normally on a PC:
 ```bash
-$ git clone https://robotics.hochschule-rhein-waal.de/gitlab/anmol280399/attendance-tracker-system.git
+$ git clone https://github.com/28anmol/Attendance-Tracking-System.git
 ```
 ```bash
 $ cd attendance-tracker-system
