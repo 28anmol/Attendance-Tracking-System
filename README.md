@@ -156,6 +156,7 @@ List of library dependencies required to run the software are:
 4. opencv-python
 5. Pillow
 
+Python Version required to run: Python 3.9
 
 To execute the code normally on a PC:
 ```bash
